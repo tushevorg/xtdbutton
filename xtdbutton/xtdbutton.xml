@@ -9,7 +9,7 @@
         <authorUrl>Your URL</authorUrl>
         <version>1.0.0</version>
         <description>
-            "This plugin adds sample button to the editor"
+            "This plugin adds sample button to the editor. Do not forget to publish the plugin!"
         </description>
         <files>
             <filename plugin="xtdbutton">xtdbutton.php</filename>
