@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.4" type="plugin" method="upgrade" group="editors-xtd">
+        <name>Editor - XTDButton</name>
+        <author>Author Name</author>
+        <creationDate>Month 2015</creationDate>
+        <copyright>(c) Author Name, 2015. All rights reserved.</copyright>
+        <license>GPL</license>
+        <authorEmail>Email</authorEmail>
+        <authorUrl>Your URL</authorUrl>
+        <version>1.0.0</version>
+        <description>
+            "This plugin adds sample button to the editor"
+        </description>
+        <files>
+            <filename plugin="xtdbutton">xtdbutton.php</filename>
+        </files>
+</extension>
